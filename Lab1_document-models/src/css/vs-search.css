@@ -1,0 +1,17 @@
+.search-panel {
+  display: flex;
+  width: 35%;
+  margin: 0 auto 8px auto;
+  justify-content: center;
+}
+
+button[type="submit"] {
+  text-align: left;
+  background-color: transparent;
+  border: none;
+}
+
+ol > li {
+  padding: 8px;
+  color: black;
+}

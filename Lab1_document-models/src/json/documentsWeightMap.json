@@ -1,0 +1,1416 @@
+{
+  "added new document": {
+    "added": {
+      "tf": 0.333,
+      "idf": 1,
+      "weight": 0.333
+    },
+    "and": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "animals": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "another": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "answer": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "are": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "as": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "awesome": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "awful": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "both": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "call": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "cat": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "document": {
+      "tf": 0.333,
+      "idf": 1,
+      "weight": 0.333
+    },
+    "dog": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "domestic": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "feels": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "find": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "g": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "haha": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "i": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "it": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "like": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "my": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "new": {
+      "tf": 0.333,
+      "idf": 1,
+      "weight": 0.333
+    },
+    "pets": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "possible": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "put": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "soon": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "sounds": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "thank": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "the": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "this": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "to": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "usually": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "want": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "we": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "when": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "which": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "yo": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "you": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    }
+  },
+  "added another document haha": {
+    "added": {
+      "tf": 0.25,
+      "idf": 1,
+      "weight": 0.25
+    },
+    "and": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "animals": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "another": {
+      "tf": 0.25,
+      "idf": 1,
+      "weight": 0.25
+    },
+    "answer": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "are": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "as": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "awesome": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "awful": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "both": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "call": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "cat": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "document": {
+      "tf": 0.25,
+      "idf": 1,
+      "weight": 0.25
+    },
+    "dog": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "domestic": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "feels": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "find": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "g": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "haha": {
+      "tf": 0.25,
+      "idf": 1,
+      "weight": 0.25
+    },
+    "i": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "it": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "like": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "my": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "new": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "pets": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "possible": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "put": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "soon": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "sounds": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "thank": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "the": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "this": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "to": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "usually": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "want": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "we": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "when": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "which": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "yo": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "you": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    }
+  },
+  "Both cat and dog are domestic animals which we usually call 'pets'": {
+    "added": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "and": {
+      "tf": 0.083,
+      "idf": 1,
+      "weight": 0.083
+    },
+    "animals": {
+      "tf": 0.083,
+      "idf": 1,
+      "weight": 0.083
+    },
+    "another": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "answer": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "are": {
+      "tf": 0.083,
+      "idf": 1,
+      "weight": 0.083
+    },
+    "as": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "awesome": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "awful": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "both": {
+      "tf": 0.083,
+      "idf": 1,
+      "weight": 0.083
+    },
+    "call": {
+      "tf": 0.083,
+      "idf": 1,
+      "weight": 0.083
+    },
+    "cat": {
+      "tf": 0.083,
+      "idf": 1,
+      "weight": 0.083
+    },
+    "document": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "dog": {
+      "tf": 0.083,
+      "idf": 1,
+      "weight": 0.083
+    },
+    "domestic": {
+      "tf": 0.083,
+      "idf": 1,
+      "weight": 0.083
+    },
+    "feels": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "find": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "g": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "haha": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "i": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "it": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "like": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "my": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "new": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "pets": {
+      "tf": 0.083,
+      "idf": 1,
+      "weight": 0.083
+    },
+    "possible": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "put": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "soon": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "sounds": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "thank": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "the": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "this": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "to": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "usually": {
+      "tf": 0.083,
+      "idf": 1,
+      "weight": 0.083
+    },
+    "want": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "we": {
+      "tf": 0.083,
+      "idf": 1,
+      "weight": 0.083
+    },
+    "when": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "which": {
+      "tf": 0.083,
+      "idf": 1,
+      "weight": 0.083
+    },
+    "yo": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "you": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    }
+  },
+  "I want you to find the answer as soon as possible!": {
+    "added": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "and": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "animals": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "another": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "answer": {
+      "tf": 0.091,
+      "idf": 1,
+      "weight": 0.091
+    },
+    "are": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "as": {
+      "tf": 0.182,
+      "idf": 1,
+      "weight": 0.182
+    },
+    "awesome": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "awful": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "both": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "call": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "cat": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "document": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "dog": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "domestic": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "feels": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "find": {
+      "tf": 0.091,
+      "idf": 1,
+      "weight": 0.091
+    },
+    "g": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "haha": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "i": {
+      "tf": 0.091,
+      "idf": 1,
+      "weight": 0.091
+    },
+    "it": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "like": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "my": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "new": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "pets": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "possible": {
+      "tf": 0.091,
+      "idf": 1,
+      "weight": 0.091
+    },
+    "put": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "soon": {
+      "tf": 0.091,
+      "idf": 1,
+      "weight": 0.091
+    },
+    "sounds": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "thank": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "the": {
+      "tf": 0.091,
+      "idf": 1,
+      "weight": 0.091
+    },
+    "this": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "to": {
+      "tf": 0.091,
+      "idf": 1,
+      "weight": 0.091
+    },
+    "usually": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "want": {
+      "tf": 0.091,
+      "idf": 1,
+      "weight": 0.091
+    },
+    "we": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "when": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "which": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "yo": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "you": {
+      "tf": 0.091,
+      "idf": 1,
+      "weight": 0.091
+    }
+  },
+  "*&~*~&^&^* g": {
+    "added": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "and": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "animals": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "another": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "answer": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "are": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "as": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "awesome": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "awful": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "both": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "call": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "cat": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "document": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "dog": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "domestic": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "feels": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "find": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "g": {
+      "tf": 1,
+      "idf": 1,
+      "weight": 1
+    },
+    "haha": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "i": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "it": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "like": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "my": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "new": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "pets": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "possible": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "put": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "soon": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "sounds": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "thank": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "the": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "this": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "to": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "usually": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "want": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "we": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "when": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "which": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "yo": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "you": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    }
+  },
+  "When you put it like this it sounds awful": {
+    "added": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "and": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "animals": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "another": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "answer": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "are": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "as": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "awesome": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "awful": {
+      "tf": 0.111,
+      "idf": 1,
+      "weight": 0.111
+    },
+    "both": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "call": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "cat": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "document": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "dog": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "domestic": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "feels": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "find": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "g": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "haha": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "i": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "it": {
+      "tf": 0.222,
+      "idf": 1,
+      "weight": 0.222
+    },
+    "like": {
+      "tf": 0.111,
+      "idf": 1,
+      "weight": 0.111
+    },
+    "my": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "new": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "pets": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "possible": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "put": {
+      "tf": 0.111,
+      "idf": 1,
+      "weight": 0.111
+    },
+    "soon": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "sounds": {
+      "tf": 0.111,
+      "idf": 1,
+      "weight": 0.111
+    },
+    "thank": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "the": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "this": {
+      "tf": 0.111,
+      "idf": 1,
+      "weight": 0.111
+    },
+    "to": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "usually": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "want": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "we": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "when": {
+      "tf": 0.111,
+      "idf": 1,
+      "weight": 0.111
+    },
+    "which": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "yo": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "you": {
+      "tf": 0.111,
+      "idf": 1,
+      "weight": 0.111
+    }
+  },
+  "Thank yo        -my cat feels awesome!": {
+    "added": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "and": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "animals": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "another": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "answer": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "are": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "as": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "awesome": {
+      "tf": 0.167,
+      "idf": 1,
+      "weight": 0.167
+    },
+    "awful": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "both": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "call": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "cat": {
+      "tf": 0.167,
+      "idf": 1,
+      "weight": 0.167
+    },
+    "document": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "dog": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "domestic": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "feels": {
+      "tf": 0.167,
+      "idf": 1,
+      "weight": 0.167
+    },
+    "find": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "g": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "haha": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "i": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "it": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "like": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "my": {
+      "tf": 0.167,
+      "idf": 1,
+      "weight": 0.167
+    },
+    "new": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "pets": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "possible": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "put": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "soon": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "sounds": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "thank": {
+      "tf": 0.167,
+      "idf": 1,
+      "weight": 0.167
+    },
+    "the": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "this": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "to": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "usually": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "want": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "we": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "when": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "which": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    },
+    "yo": {
+      "tf": 0.167,
+      "idf": 1,
+      "weight": 0.167
+    },
+    "you": {
+      "tf": 0,
+      "idf": 1,
+      "weight": 0
+    }
+  }
+}

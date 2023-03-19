@@ -1,0 +1,106 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 24px;
+}
+
+body {
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background: rgb(173, 216, 230);
+  color: white;
+}
+
+header, h1, footer {
+  text-align: center;
+}
+
+
+header {
+  background:	black;
+}
+
+
+.modes {
+  margin: 0 auto;
+  width: 50%;
+}
+
+.flex-sides {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.flex-central {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex-central > a {
+  padding-top: 10px;
+}
+
+svg:hover path {
+  fill: rgb(200, 150, 207);
+}
+
+svg:active path {
+  stroke: yellow;
+  stroke-width: 15;
+}
+
+.button {
+  display: inline-block;
+
+  padding: 10px 20px;
+  background-color: rgb(82, 45, 88);
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+}
+
+.button:hover {
+  background-color: rgb(200, 150, 207);
+}
+
+.button:active {
+  color: yellow;
+}
+
+.form-container {
+  margin: 0 auto;
+  width: 35%;
+}
+
+input[type="text"] {
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 8px;
+  font-size: 16px;
+  width: 100%;
+  font-weight: bold;
+}
+
+input[type="submit"] {
+  width: 100%;
+  margin-bottom: 8px;
+}
+
+.search-results {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.search-results > ol > li {
+  padding: 5px;
+  color: black;
+}
+
+footer  {
+  padding: 300px 300px 0 300px;
+}

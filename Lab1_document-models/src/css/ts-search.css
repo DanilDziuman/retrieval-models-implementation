@@ -1,0 +1,67 @@
+.search-panel {
+  display: grid;
+  margin: 0 auto;
+  width: 45%;
+  grid-template-columns: repeat(6, auto);
+  grid-template-rows: auto;
+  grid-template-areas:
+    "search-input search-input search-input search-input search-input search-icon"
+    "disjunctive-radio disjunctive-radio disjunctive-radio conjunctive-radio conjunctive-radio conjunctive-radio"
+    "term-select term-select term-select term-remove term-remove term-remove"
+    "and-button and-button not-button not-button or-button or-button";
+  column-gap: 5%;
+  row-gap: 10px;
+  justify-items: stretch;
+}
+
+.grid-item {
+  text-align: center;
+}
+
+.item-1-1 {
+  grid-area: search-input;
+  overflow: auto; /* to be checked (gpt) */
+}
+
+.item-1-2 {
+  grid-area: search-icon;
+  text-align: left;
+  background-color: transparent;
+  /* border-radius: 50%; */
+  border: none;
+}
+
+input[type="radio"] {
+  width: 20px;
+  height: 20px;
+}
+
+.item-2-1 {
+  grid-area: disjunctive-radio;
+}
+
+.item-2-2 {
+  grid-area: conjunctive-radio;
+}
+
+.item-3-1 {
+  grid-area: term-select;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.item-3-2 {
+  grid-area: term-remove;
+}
+
+.item-4-1 {
+  grid-area: and-button;
+}
+
+.item-4-2 {
+  grid-area: not-button;
+}
+
+.item-4-3 {
+  grid-area: or-button;
+}

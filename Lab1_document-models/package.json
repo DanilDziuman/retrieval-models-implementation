@@ -1,0 +1,25 @@
+{
+  "name": "lab1_document-models-package",
+  "version": "1.0.0",
+  "description": "Laboratory work 1 - IR document models implementation",
+  "main": "./src/js/backend_express.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/js/server.js"
+  },
+  "keywords": [
+    "document",
+    "model",
+    "set-theoretic",
+    "standard-boolean",
+    "algebraic",
+    "vector-space"
+  ],
+  "author": "Danil Dziuman, KP-91",
+  "license": "ISC",
+  "dependencies": {
+    "collections": "^5.1.13",
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1"
+  }
+}
